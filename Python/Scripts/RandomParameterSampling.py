@@ -1,4 +1,3 @@
-import random
 from random import random
 from random import seed
 from random import randrange
